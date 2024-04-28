@@ -9,7 +9,7 @@
 
 <div align="center" style="text-align:center">
 
-  !GitHub stats
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung000&show_icons=true&theme=dark) 
  
 </div>
 
@@ -18,4 +18,3 @@
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR)
 
 </div>
-
