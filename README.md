@@ -40,7 +40,7 @@
 
 <div align="center">
 
-  <p><strong>About Me 👩‍💻</strong></p>
+  <p><strong>About Me! 👩‍💻</strong></p>
 
   <table>
     <thead>
